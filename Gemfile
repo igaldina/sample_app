@@ -34,6 +34,8 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'execjs'
 gem 'therubyracer'
+gem 'rb-readline'
+
 group :doc do
   gem 'sdoc', require: false
 end
